@@ -9,17 +9,19 @@ Max Muster
 3. Ich nehme wieder das Thema auf von der Lp2, das Webscrapen. Ich möchte einen Webscraper machen der Wetter von wetterwebsiten scraped und mir dann dazu Vorschläge gibt für meine Pläne.
 
 ## 9.1.2024
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich 2 Youtube tutorials zu Webscrapinng angeschaut. Bei dem ersten Video ging es um die funktion an sich und bei dem zweiten habe ich gelernt es in den Code umzuwandeln. Natürlich habe ich mich auch noch einbisschen mit mehreren Wetterwebsiten beschäftigt und 1 gute ausgewählt.
 
-16.1 und 23.1.2024
-[ ] Herausfinden aus welchen wetterwebsiten man gut die Information scrapen kann und dann alle Grad Celsius von dem heutigen Tag in meinen Code bringen
-[ ] Die Wetterlage aus der Website ausfischen und in den Code bringen
-[ ] Den Code so gestalten, dass er mir die Informationen anzeigt und jetzt schon einen kleinen Vorschlag macht was man machen könnte wie zB. Es ist sonnig und warm, heute wäre es ein schöner Tag um raus zu gehen.
-estfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
+## 16.1 und 23.1.2024
+- [ ] Herausfinden aus welchen wetterwebsiten man gut die Information scrapen kann und dann alle Grad Celsius von dem heutigen Tag in meinen Code bringen
+- [ ] Die Wetterlage aus der Website ausfischen und in den Code bringen
+- [ ] Den Code so gestalten, dass er mir die Informationen anzeigt und jetzt schon einen kleinen Vorschlag macht was man machen könnte wie zB. Es ist sonnig und warm, heute wäre es ein schöner Tag um raus zu gehen.
+
+      
+Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 1				
 ...				
 4				
-✍️ Heute am 16.1 habe ich... (50-100 Wörter)
+## ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
