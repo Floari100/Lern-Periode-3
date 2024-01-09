@@ -1,9 +1,9 @@
-#Lern-Periode 3
+# Lern-Periode 3
 Max Muster
 
 9.1.2024 bis 30.1.2024 (☃️ Sportferien)
 
-#Grob-Planung
+# Grob-Planung
 1. In dem Modul 319 war ich recht gut und hatte eine 5,5. Ich habe eher Probleme in dem Netzwerk Modul an dem wir gerade dran sind, aber für das habe ich noch Zeit um zu lernen
 2. Ich sollte meine Projekte kennen oder mindestens genau anschauen bevor ich mich mit den Projekten beschäftige, ich habe im letzten Quartal 2/3 Projekte schlecht gewählt und muss das verbessern. Für diese Lernperiode werde ich das Projekt besser planen und in Zukunft mit mehr Projekten Übung bekommen was das Planen angeht.
 3. 
