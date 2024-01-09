@@ -1,12 +1,13 @@
-Lern-Periode 3
+#Lern-Periode 3
 Max Muster
 
 9.1.2024 bis 30.1.2024 (☃️ Sportferien)
 
-Grob-Planung
-Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-Was wäre ein geeignetes Projekt würd diese LP3?
+#Grob-Planung
+1. In dem Modul 319 war ich recht gut und hatte eine 5,5. Ich habe eher Probleme in dem Netzwerk Modul an dem wir gerade dran sind, aber für das habe ich noch Zeit um zu lernen
+2. Ich sollte meine Projekte kennen oder mindestens genau anschauen bevor ich mich mit den Projekten beschäftige, ich habe im letzten Quartal 2/3 Projekte schlecht gewählt und muss das verbessern. Für diese Lernperiode werde ich das Projekt besser planen und in Zukunft mit mehr Projekten Übung bekommen was das Planen angeht.
+3. 
+
 9.1.2024
 ✍️ Heute habe ich... (50-100 Wörter)
 
@@ -38,6 +39,11 @@ Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 
 30.1.2024
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+
+Reflexion
+Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+
+Verfassen Sie zusätzlich einen kurzen Abschnitt, in welchem Sie über die Länge der Projekte reflektieren: Fanden Sie die 9-wöchtige LP2 oder die 4-wöchige LP3 angenehmer? Was bedeutet das für Ihre Planung der zukünftigen LP?
 
 Reflexion
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
